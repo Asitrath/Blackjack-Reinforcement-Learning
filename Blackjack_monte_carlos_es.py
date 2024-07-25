@@ -9,7 +9,7 @@ from functools import partial
 
 plt.style.use('ggplot')
 
-env = gym.make('Blackjack-v1')
+env = gym.make('Blackjack-v0')
 
 def single_run_20():
     """ run the policy that sticks for >= 20 """
