@@ -57,6 +57,8 @@ python blackjack_rl.py
 The script outputs:
 - The optimal policy found by Monte Carlo ES for states with and without a usable ace
 - 3D plots of the value function for states with and without a usable ace
+  
+![Screenshot 2024-05-17 215303](https://github.com/user-attachments/assets/e33f647c-a5be-427f-9926-01d86af024aa)
 
 ## License
 
